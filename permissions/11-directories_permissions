@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d chmod 755 ./
+chmod -R --exclude-file chmod a+x ./
