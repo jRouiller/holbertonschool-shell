@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --exclude-file chmod a+x ./
+chmod -R a+x ./
