@@ -1,2 +1,2 @@
 #!/bin/bash
-cp grep [[:upper:]] /tmp/u
+cp | [A-Z]* /tmp/u
